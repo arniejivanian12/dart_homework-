@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "activity_tracker"
+  ],
+  "packages": [
+    {
+      "name": "activity_tracker",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

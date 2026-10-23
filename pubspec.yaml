@@ -1,0 +1,7 @@
+name: activity_tracker
+description: Daily Sports Activity Manager - Dart university homework.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.5.0
